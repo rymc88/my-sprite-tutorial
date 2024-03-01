@@ -30,7 +30,7 @@ mySprite = sprites.create(img("""
 
 Open the sprite editor by click on the paint paletter 🎨 .
 
-![Open Sprite Editor](https://github.com/rymc88/my-sprite-tutorial/blob/master/open_sprite_editor.gif?raw=true)
+![Open Sprite Editor](https://github.com/rymc88/my-sprite-tutorial/blob/master/images/open_sprite_editor.gif?raw=true)
 
 ## Describe Sprite
 
